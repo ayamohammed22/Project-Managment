@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ProjectManagment.API/ProjectManagment.API.csproj" />
+  <Project Path="ProjectManagment.Core/ProjectManagment.Core.csproj" />
+  <Project Path="ProjectManagment.Infrastructure/ProjectManagment.Infrastructure.csproj" />
+  <Project Path="ProjectManagment.Service/ProjectManagment.Application.csproj" />
+</Solution>

@@ -1,0 +1,26 @@
+E:\projects\ProjectManagment\Project-Managment\Project Managment\Project Managment.Core\bin\Debug\net9.0\ProjectManagment.Core.deps.json
+E:\projects\ProjectManagment\Project-Managment\Project Managment\Project Managment.Core\bin\Debug\net9.0\ProjectManagment.Core.dll
+E:\projects\ProjectManagment\Project-Managment\Project Managment\Project Managment.Core\bin\Debug\net9.0\ProjectManagment.Core.pdb
+E:\projects\ProjectManagment\Project-Managment\Project Managment\Project Managment.Core\obj\Debug\net9.0\ProjectManagment.Core.csproj.AssemblyReference.cache
+E:\projects\ProjectManagment\Project-Managment\Project Managment\Project Managment.Core\obj\Debug\net9.0\ProjectManagment.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\ProjectManagment\Project-Managment\Project Managment\Project Managment.Core\obj\Debug\net9.0\ProjectManagment.Core.AssemblyInfoInputs.cache
+E:\projects\ProjectManagment\Project-Managment\Project Managment\Project Managment.Core\obj\Debug\net9.0\ProjectManagment.Core.AssemblyInfo.cs
+E:\projects\ProjectManagment\Project-Managment\Project Managment\Project Managment.Core\obj\Debug\net9.0\ProjectManagment.Core.csproj.CoreCompileInputs.cache
+E:\projects\ProjectManagment\Project-Managment\Project Managment\Project Managment.Core\obj\Debug\net9.0\ProjectManagment.Core.sourcelink.json
+E:\projects\ProjectManagment\Project-Managment\Project Managment\Project Managment.Core\obj\Debug\net9.0\ProjectManagment.Core.dll
+E:\projects\ProjectManagment\Project-Managment\Project Managment\Project Managment.Core\obj\Debug\net9.0\refint\ProjectManagment.Core.dll
+E:\projects\ProjectManagment\Project-Managment\Project Managment\Project Managment.Core\obj\Debug\net9.0\ProjectManagment.Core.pdb
+E:\projects\ProjectManagment\Project-Managment\Project Managment\Project Managment.Core\obj\Debug\net9.0\ref\ProjectManagment.Core.dll
+E:\projects\ProjectManagment\Project-Managment\Project Managment\ProjectManagment.Core\bin\Debug\net9.0\ProjectManagment.Core.deps.json
+E:\projects\ProjectManagment\Project-Managment\Project Managment\ProjectManagment.Core\bin\Debug\net9.0\ProjectManagment.Core.dll
+E:\projects\ProjectManagment\Project-Managment\Project Managment\ProjectManagment.Core\bin\Debug\net9.0\ProjectManagment.Core.pdb
+E:\projects\ProjectManagment\Project-Managment\Project Managment\ProjectManagment.Core\obj\Debug\net9.0\ProjectManagment.Core.csproj.AssemblyReference.cache
+E:\projects\ProjectManagment\Project-Managment\Project Managment\ProjectManagment.Core\obj\Debug\net9.0\ProjectManagment.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\ProjectManagment\Project-Managment\Project Managment\ProjectManagment.Core\obj\Debug\net9.0\ProjectManagment.Core.AssemblyInfoInputs.cache
+E:\projects\ProjectManagment\Project-Managment\Project Managment\ProjectManagment.Core\obj\Debug\net9.0\ProjectManagment.Core.AssemblyInfo.cs
+E:\projects\ProjectManagment\Project-Managment\Project Managment\ProjectManagment.Core\obj\Debug\net9.0\ProjectManagment.Core.csproj.CoreCompileInputs.cache
+E:\projects\ProjectManagment\Project-Managment\Project Managment\ProjectManagment.Core\obj\Debug\net9.0\ProjectManagment.Core.sourcelink.json
+E:\projects\ProjectManagment\Project-Managment\Project Managment\ProjectManagment.Core\obj\Debug\net9.0\ProjectManagment.Core.dll
+E:\projects\ProjectManagment\Project-Managment\Project Managment\ProjectManagment.Core\obj\Debug\net9.0\refint\ProjectManagment.Core.dll
+E:\projects\ProjectManagment\Project-Managment\Project Managment\ProjectManagment.Core\obj\Debug\net9.0\ProjectManagment.Core.pdb
+E:\projects\ProjectManagment\Project-Managment\Project Managment\ProjectManagment.Core\obj\Debug\net9.0\ref\ProjectManagment.Core.dll
