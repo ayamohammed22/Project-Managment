@@ -1,89 +1,72 @@
 # Project-Managment
 
-\# Project Management API
-
-
+## Project Management API
 
 A simple backend API for managing projects and tasks built with ASP.NET Core Web API using Clean Architecture principles.
 
 
 
-\---
 
+## Features
 
+## Authentication
 
-\# Features
+- Register User
 
+- Login User
 
+- JWT Authentication
 
-\## Authentication
+## Projects
 
-\- Register User
+- Create Project
 
-\- Login User
+- Get All Projects
 
-\- JWT Authentication
+- Get Project By Id
 
+- Update Project
 
+- Delete Project
 
-\## Projects
+## Tasks
 
-\- Create Project
+- Create Task
 
-\- Get All Projects
+- Get Tasks By Project
 
-\- Get Project By Id
+- Update Task Status
 
-\- Update Project
+- Delete Task
 
-\- Delete Project
+---
 
+# Technologies Used
 
+- ASP.NET Core Web API
 
-\## Tasks
+- .NET 9
 
-\- Create Task
+- Entity Framework Core
 
-\- Get Tasks By Project
+- SQL Server
 
-\- Update Task Status
+- JWT Authentication
 
-\- Delete Task
+- Clean Architecture
 
+- Generic Repository Pattern
 
-
-\---
-
-
-
-\# Technologies Used
-
-
-
-\- ASP.NET Core Web API
-
-\- .NET 9
-
-\- Entity Framework Core
-
-\- SQL Server
-
-\- JWT Authentication
-
-\- Clean Architecture
-
-\- Generic Repository Pattern
-
-\- FluentValidation
+- FluentValidation
 
 
 
 
-\---
+---
 
 
 
-\# Project Structure
+# Project Structure
 
 
 
@@ -105,11 +88,11 @@ ProjectManagement/
 
 
 
-\---
+---
 
 
 
-\# Architecture
+# Architecture
 
 
 
@@ -117,35 +100,35 @@ The project follows Clean Architecture principles:
 
 
 
-\- API Layer  
+- API Layer  
 
 Handles endpoints and middleware.
 
 
 
-\- Application Layer  
+- Application Layer  
 
 Contains business logic, DTOs, validation, and services.
 
 
 
-\- Infrastructure Layer  
+- Infrastructure Layer  
 
 Contains database access, repositories, authentication services, and external implementations.
 
 
 
-\- Core Layer  
+- Core Layer  
 
 Contains entities and domain models.
 
 
 
-\---
+---
 
 
 
-\# Authentication
+# Authentication
 
 
 
@@ -169,11 +152,11 @@ Bearer YOUR\_TOKEN
 
 
 
-\---
+---
 
 
 
-\# Global Exception Handling
+# Global Exception Handling
 
 
 
@@ -183,17 +166,17 @@ The project uses custom middleware for handling exceptions globally.
 
 Handled exceptions:
 
-\- Validation Exceptions
+- Validation Exceptions
 
-\- General Exceptions
-
-
-
-\---
+- General Exceptions
 
 
 
-\# Validation
+---
+
+
+
+# Validation
 
 
 
@@ -203,27 +186,27 @@ FluentValidation is used for request validation.
 
 Examples:
 
-\- Required fields
+- Required fields
 
-\- Email validation
+- Email validation
 
-\- Password minimum length
+- Password minimum length
 
-\- Maximum length validation
-
-
-
-\---
+- Maximum length validation
 
 
 
-\# Database
+---
+
+
+
+# Database
 
 
 
 Database Provider:
 
-\- SQL Server
+- SQL Server
 
 
 
@@ -231,15 +214,15 @@ Entity Framework Core is used with Code First approach and migrations.
 
 
 
-\---
+---
 
 
 
-\# Setup Instructions
+# Setup Instructions
 
 
 
-\## 1. Clone Repository
+## 1. Clone Repository
 
 
 
@@ -251,11 +234,11 @@ git clone https://github.com/ayamohammed22/Project-Managment.git
 
 
 
-\---
+---
 
 
 
-\## 2. Configure Database
+## 2. Configure Database
 
 
 
@@ -287,11 +270,11 @@ Example:
 
 
 
-\---
+---
 
 
 
-\## 3. Apply Migrations
+## 3. Apply Migrations
 
 
 
@@ -307,7 +290,7 @@ dotnet ef database update
 
 
 
-\## 4. Run Project
+## 4. Run Project
 
 
 
@@ -319,11 +302,11 @@ dotnet run
 
 
 
-\---
+---
 
 
 
-\# Swagger
+# Swagger
 
 
 
@@ -343,15 +326,15 @@ https://localhost:7205/swagger/index.html
 
 
 
-\---
+---
 
 
 
-\# API Endpoints
+# API Endpoints
 
 
 
-\## Authentication
+## Authentication
 
 
 
@@ -365,11 +348,11 @@ https://localhost:7205/swagger/index.html
 
 
 
-\---
+---
 
 
 
-\## Projects
+## Projects
 
 
 
@@ -389,11 +372,11 @@ https://localhost:7205/swagger/index.html
 
 
 
-\---
+---
 
 
 
-\## Tasks
+## Tasks
 
 
 
@@ -411,37 +394,36 @@ https://localhost:7205/swagger/index.html
 
 
 
-\---
+---
 
 
 
-\# Future Improvements
+# Future Improvements
 
 
 
-\- CQRS \& MediatR
+- CQRS \& MediatR
 
-\- Unit Testing
+- Unit Testing
 
-\- Docker Support
+- Docker Support
 
-\- Redis Caching
+- Redis Caching
 
-\- Role-Based Authorization
-
-\- API Versioning
+- Role-Based Authorization
 
 
 
-\---
+
+---
 
 
 
-\# Author
+# Author
 
 
 
-Aya Mohamed
+Aya Mohamed Mostafa
 
 Backend .NET Developer
 
